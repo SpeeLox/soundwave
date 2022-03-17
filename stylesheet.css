@@ -1,0 +1,58 @@
+html{
+    background-color:#2F3037 ;
+}
+#menu{
+    display:flex;
+    flex: 1;
+    margin-left: 129px ;
+    
+    
+}
+
+.title {
+    color: rgb(240, 229, 229);
+    font-family:  'Poppins', sans-serif;;
+    font-style:normal;
+    font-size: 30px;
+    padding-top: 0px;
+    padding-left: 18px;
+    margin-top: 16px;
+    margin-bottom: 0%;
+    
+}
+.logo{
+    margin-top: 10px;
+   
+
+    
+}
+#menu a{
+    color: #2F3037 ;
+}
+.Discover{
+    color: rgb(240, 229, 229);
+    font-family:  'Poppins', sans-serif;;
+    font-style: normal;
+    font-size: 30px;
+    padding-top: 0px;
+    margin-top: 16px;
+    margin-left: 1045px;
+    margin-bottom: 0%;
+
+}
+.join{
+    color: rgb(240, 229, 229);
+    font-family:  'Poppins', sans-serif;;
+    font-style: normal;
+    font-size: 30px;
+    padding-top: 0px;
+    margin-top: 16px;
+    margin-left: 0px;
+    margin-bottom: 0%;
+    padding-left: 50px;
+
+}
+
+
+
+
